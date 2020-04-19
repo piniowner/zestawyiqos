@@ -1,2 +1,0 @@
-# zestawyiqos
-SKU Zestawów IQOS
